@@ -15,3 +15,5 @@
 
 # ❗Informations supplémentaires
 - Ce plugin possède un Webhook m'informant de qui utilise mon plugin
+# 🛠️ Installation
+*[Radar](https://github.com/Feniix98/Radar/releases/latest)*
